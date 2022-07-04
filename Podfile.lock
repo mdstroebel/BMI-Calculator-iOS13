@@ -1,0 +1,23 @@
+PODS:
+  - paper-onboarding-pointzi (2.0.6)
+  - pointzi (2.9.1):
+    - paper-onboarding-pointzi
+    - pointzi/Lite (= 2.9.1)
+  - pointzi/Lite (2.9.1):
+    - paper-onboarding-pointzi
+
+DEPENDENCIES:
+  - pointzi
+
+SPEC REPOS:
+  trunk:
+    - paper-onboarding-pointzi
+    - pointzi
+
+SPEC CHECKSUMS:
+  paper-onboarding-pointzi: 1349b198730213573a6171898dbbfb57dd581393
+  pointzi: c5f1d575c49e98cb6c23ae7568d8fea8e5c13e98
+
+PODFILE CHECKSUM: e4e3d8adabf12391891707e91abfac4b410a67ce
+
+COCOAPODS: 1.11.2

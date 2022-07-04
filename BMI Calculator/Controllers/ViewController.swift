@@ -7,8 +7,9 @@
 //
 
 import UIKit
+import StreetHawkCore_Pointzi
 
-class ViewController: UIViewController {
+class ViewController: StreetHawkBaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
